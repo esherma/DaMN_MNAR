@@ -1,0 +1,2 @@
+# Exclude data files (i.e., .npy files)
+*.npy
